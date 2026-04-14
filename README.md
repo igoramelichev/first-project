@@ -1,3 +1,3 @@
 # first-project
-Project description
+Project description:
 This is a test repo for working with GitHub.
